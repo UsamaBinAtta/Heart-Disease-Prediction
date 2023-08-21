@@ -1,5 +1,6 @@
 # Heart-Disease-Prediction
 Project Heart Disease Prediction Using Logistic Regression
+
 Heart Disease
 
 Welcome to the "Heart Disease Prediction Using Logistic Regression" project repository! In this project, we aim to predict the presence or absence of heart disease in individuals using logistic regression, a common machine learning algorithm for binary classification tasks.
